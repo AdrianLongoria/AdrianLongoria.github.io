@@ -1,0 +1,68 @@
+body {
+    background-color: darkslategrey;
+    
+}
+
+header{
+    background-image: url(background.jpg);
+}
+
+nav {
+    background-image: url(nav_background.jpg);
+}
+
+h1,h2,h3 {
+    color: darkorchid;
+}
+
+dt {
+  color: mediumpurple;  
+}
+
+p,nav,dd {
+    color: greenyellow;
+}
+
+legend {
+    color: darkorchid;
+}
+
+li {
+    color: greenyellow;
+}
+
+div.column ol {
+    text-align: center;
+    display: inline-block;
+}
+
+div.column ul {
+    text-align: center;
+    display: inline-block;
+}
+
+div.column  {
+    text-align: center;
+    display: inline-block;
+}
+
+
+
+#copyright {
+    color: aqua;
+    
+}
+
+a:visited {
+    color: powderblue;
+}
+
+a:link{
+    color: powderblue;
+}
+
+a:hover {
+    color:darkorchid;
+}
+
+
