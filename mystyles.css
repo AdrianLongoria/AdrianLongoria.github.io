@@ -1,8 +1,8 @@
 body {
-    background-color: darkslategrey;
+    background-image: url(galaxyB.jpg);
     
 }
-
+/*
 header{
     background-image: url(background.jpg);
 }
@@ -10,7 +10,7 @@ header{
 nav {
     background-image: url(nav_background.jpg);
 }
-
+*/
 h1,h2,h3 {
     color: darkorchid;
 }
