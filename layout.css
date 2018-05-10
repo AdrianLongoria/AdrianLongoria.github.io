@@ -1,13 +1,9 @@
 @charset "UTF-8";
 
-/*
- Layout related Styles for Final Project Pages
- 
- Do not add your own styles in this file! Put them in your own separate style sheet!
-*/
 
 header {
 	height : 150px; /* optionally set an appropriate height for this banner area */
+	text-align: center;
 }   
 
 nav {
